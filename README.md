@@ -3,4 +3,4 @@
 Это репозиторий моего анализа данных.
 
 ## Файлы:
-- `analysis.ipynb` — Jupyter Notebook с анализом
+- `2_task_AB_test.ipynb` — Jupyter Notebook с анализом
